@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[demo](https://resume-maker-react13.netlify.app/)
+[See Live Here .](https://resume-maker-react13.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
