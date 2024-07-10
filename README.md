@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Resume Maker</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Success1308/Resume-Maker/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Success1308/Resume-Maker/image?description=1&descriptionEditable=Resume%20Maker%20is%20a%20web%20application%20built%20using%20React%20that%20allows%20users%20to%20create%20and%20customize%20their%20resumes.%20&font=KoHo&language=1&name=1&owner=1&stargazers=1&theme=Light" alt="project-image"></p>
 
 <p id="description">Resume Maker is a web application built using React that allows users to create and customize their resumes. The application provides various components for different sections of a resume such as personal details education experience projects and skills.</p>
 
